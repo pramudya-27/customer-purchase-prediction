@@ -1,4 +1,4 @@
-# Dokumentasi Ujian Praktik: Prediksi Pembelian Pelanggan
+# Ujian Projek: Prediksi Pembelian Pelanggan
 
 ![Ilustrasi](image.png)
 
